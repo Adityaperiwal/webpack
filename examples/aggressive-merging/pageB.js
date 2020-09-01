@@ -1,3 +1,4 @@
 require(["./common"], function(common) {
-	common(require("./b"));
+	common(require("./b"));//require bcls
+	
 });
